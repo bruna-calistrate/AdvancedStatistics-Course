@@ -6,3 +6,4 @@ Robert é um Investidor Anjo e pretende fechar negócio com algumas startups dos
 
 Você foi contratado por Robert como Consultor de Ciência de Dados para realizar essa análise entre as 50 startups. Através de seus conhecimentos de estatística, faça o tratamento de dados necessário da base dessas empresas e monte um modelo de regressão que auxilie na tomada de decisão do investidor.
 
+**Dataset**: https://www.kaggle.com/datasets/karthickveerakumar/startup-logistic-regression
